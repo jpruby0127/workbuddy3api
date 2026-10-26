@@ -9,6 +9,11 @@
   Web 面板 · OAuth 浏览器登录 · 账号池轮转 · 熔断与冷却 · 会话粘性 · 定时签到 / 活跃 / 旅行 / 保活 · <b>成长任务一键完成（17/18）</b> · 流式 / 非流式
 </p>
 
+> **📦 本仓库说明**
+> 代码源自 [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api)（原仓库已删除）→ [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) → [beiziyu/workbuddy3api-NewTask](https://github.com/beiziyu/workbuddy3api-NewTask)。
+> 本仓库为个人部署使用的镜像分发版，源码未作功能改动，仅额外提供 [Releases](https://github.com/jpruby0127/workbuddy3api/releases) 中的多平台预编译二进制。遵循 MIT License，版权归上述作者所有。
+> 原项目明确声明**仅供个人自用账号管理**，请勿用于批量小号分发额度、二次打包转售或任何商业用途。
+
 <p align="center">
   <img alt="Go" src="https://img.shields.io/badge/Go-1.22.5-00ADD8?logo=go&logoColor=white&style=flat-square">
   <img alt="API" src="https://img.shields.io/badge/API-OpenAI_Compatible-412991?style=flat-square">
